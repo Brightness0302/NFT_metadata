@@ -1,0 +1,45 @@
+{
+    "name": "",
+    "Royal fee": "10%",
+    "description": "Crazy Rich Rabbit NFT @Montage Collection",
+    "attributes": [
+        {
+            "trait_type": "PASSIVE SKILL 1",
+            "value": "DOUBLE SHOT"
+        },
+        {
+            "trait_type": "LUCK",
+            "value": 23
+        },
+        {
+            "trait_type": "LIKE",
+            "value": [
+                "CARROT",
+                "RICE CAKE",
+                "RADISH",
+                "CUCUMBER",
+                "BORCCOLI"
+            ]
+        },
+        {
+            "trait_type": "COME FROM",
+            "value": "MOON"
+        },
+        {
+            "trait_type": "SPECIAL FEATURE",
+            "value": "MONTAGE"
+        },
+        {
+            "trait_type": "background",
+            "value": "silver"
+        },
+        {
+            "trait_type": "background",
+            "value": "silver"
+        },
+        {
+            "trait_type": "background",
+            "value": "silver"
+        }
+    ]
+}

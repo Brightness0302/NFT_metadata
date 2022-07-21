@@ -1,0 +1,39 @@
+{
+  "name": "chicken NFT #1",
+  "description": "10000 chicken NFT collaction",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "d7d375c16a71edae1f61178ebe836b7baef9f403",
+  "edition": 1,
+  "date": 1644090253687,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "silver"
+    },
+    {
+      "trait_type": "skin",
+      "value": "light green"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "gbrdbd"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "jk,"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "mzxcjs ns"
+    },
+    {
+      "trait_type": "head",
+      "value": "sjhdfksf dfv"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "as f ass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
