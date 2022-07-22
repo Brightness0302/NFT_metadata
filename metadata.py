@@ -22,7 +22,7 @@ for i in range(count):
 	percent = random.randint(0,100)
 	if percent < 20:
 		metadata["attributes"].append({"trait_type": "PASSIVE SKILL 2", "value": "DRONE PILOT CERTIFICATE"})
-	metadata["attributes"].append({"trait_type": "LUCK", "value": random.randint(10,30)})
+	metadata["attributes"].append({"trait_type": "LUCK", "value": str(random.randint(10,30))})
 	metadata["attributes"].append({"trait_type": "LIKE", "value": like[random.randint(0,4)]})
 	metadata["attributes"].append({"trait_type": "COME FROM", "value": "MOON"})
 	metadata["attributes"].append({"trait_type": "SPECIAL FEATURE", "value": "MONTAGE"})

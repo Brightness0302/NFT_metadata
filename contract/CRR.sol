@@ -16,7 +16,7 @@ contract CRR is
 
     uint256 public constant MAX_SUPPLY = 5000;
 
-    uint256 public salePrice = 0.1 ether;
+    uint256 public salePrice = 0.001 ether;
 
     bool private hasOwnerMint;
 
