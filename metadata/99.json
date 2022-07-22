@@ -8,12 +8,16 @@
             "value": "DOUBLE SHOT"
         },
         {
+            "trait_type": "PASSIVE SKILL 2",
+            "value": "DRONE PILOT CERTIFICATE"
+        },
+        {
             "trait_type": "LUCK",
-            "value": 27
+            "value": "17"
         },
         {
             "trait_type": "LIKE",
-            "value": "RADISH"
+            "value": "RICE CAKE"
         },
         {
             "trait_type": "COME FROM",
