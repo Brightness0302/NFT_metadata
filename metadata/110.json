@@ -1,0 +1,27 @@
+{
+    "name": "Rich Rabbit NFT #110",
+    "description": "Crazy Rich Rabbit NFT @Montage Collection",
+    "image": "https://ipfs.io/ipfs/QmUneJUsj9A4Dt8JfrrR28BAnoDNTGqa2HG6BfXGezKfcZ/110.jpg",
+    "attributes": [
+        {
+            "trait_type": "PASSIVE SKILL 1",
+            "value": "DOUBLE SHOT"
+        },
+        {
+            "trait_type": "LUCK",
+            "value": 29
+        },
+        {
+            "trait_type": "LIKE",
+            "value": "CARROT"
+        },
+        {
+            "trait_type": "COME FROM",
+            "value": "MOON"
+        },
+        {
+            "trait_type": "SPECIAL FEATURE",
+            "value": "MONTAGE"
+        }
+    ]
+}

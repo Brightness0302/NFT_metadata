@@ -1,29 +1,19 @@
 {
-    "name": "",
-    "Royal fee": "10%",
+    "name": "Rich Rabbit NFT #91",
     "description": "Crazy Rich Rabbit NFT @Montage Collection",
+    "image": "https://ipfs.io/ipfs/QmUneJUsj9A4Dt8JfrrR28BAnoDNTGqa2HG6BfXGezKfcZ/91.jpg",
     "attributes": [
         {
             "trait_type": "PASSIVE SKILL 1",
             "value": "DOUBLE SHOT"
         },
         {
-            "trait_type": "PASSIVE SKILL 2",
-            "value": "DRONE PILOT CERTIFICATE"
-        },
-        {
             "trait_type": "LUCK",
-            "value": 16
+            "value": 18
         },
         {
             "trait_type": "LIKE",
-            "value": [
-                "CARROT",
-                "RICE CAKE",
-                "RADISH",
-                "CUCUMBER",
-                "BORCCOLI"
-            ]
+            "value": "RICE CAKE"
         },
         {
             "trait_type": "COME FROM",
@@ -32,18 +22,6 @@
         {
             "trait_type": "SPECIAL FEATURE",
             "value": "MONTAGE"
-        },
-        {
-            "trait_type": "background",
-            "value": "silver"
-        },
-        {
-            "trait_type": "background",
-            "value": "silver"
-        },
-        {
-            "trait_type": "background",
-            "value": "silver"
         }
     ]
 }

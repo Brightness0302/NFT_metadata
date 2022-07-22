@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "Royal fee": "10%",
+    "name": "Rich Rabbit NFT #13",
     "description": "Crazy Rich Rabbit NFT @Montage Collection",
+    "image": "https://ipfs.io/ipfs/QmUneJUsj9A4Dt8JfrrR28BAnoDNTGqa2HG6BfXGezKfcZ/13.jpg",
     "attributes": [
         {
             "trait_type": "PASSIVE SKILL 1",
@@ -9,17 +9,11 @@
         },
         {
             "trait_type": "LUCK",
-            "value": 28
+            "value": 15
         },
         {
             "trait_type": "LIKE",
-            "value": [
-                "CARROT",
-                "RICE CAKE",
-                "RADISH",
-                "CUCUMBER",
-                "BORCCOLI"
-            ]
+            "value": "RADISH"
         },
         {
             "trait_type": "COME FROM",
@@ -28,18 +22,6 @@
         {
             "trait_type": "SPECIAL FEATURE",
             "value": "MONTAGE"
-        },
-        {
-            "trait_type": "background",
-            "value": "silver"
-        },
-        {
-            "trait_type": "background",
-            "value": "silver"
-        },
-        {
-            "trait_type": "background",
-            "value": "silver"
         }
     ]
 }
